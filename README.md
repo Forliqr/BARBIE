@@ -1,5 +1,5 @@
 # Data-Free-Backdoor-Detection
-Code of the paper *Barbie: A Robust Backdoor Detection Based on Intermediate Feature Abnormality*.
+Code of the paper *Barbie: Robust Backdoor Detection Based on Latent Separability*.
 
 ## Step 1: Train benign and backdoored models
 
